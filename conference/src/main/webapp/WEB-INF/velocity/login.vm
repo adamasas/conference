@@ -18,8 +18,8 @@
                     <input type="password" id="pass" name="password"/>
                 </div>
                 <div class="formGroup">
-                    <input type="submit" value="Login" id="login">
-                    <input type="submit" value="Register" id="register">
+                    <input type="submit" name="submitButton" value="Login" id="login">
+                    <input type="submit" name="submitButton" value="Register" id="register">
                 </div>
             </fieldset>
         </form>
